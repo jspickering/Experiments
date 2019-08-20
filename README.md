@@ -4,7 +4,7 @@ This repository contains all the tasks used in the following pre-registered stud
 * [Impulsivity and inhibitory control in Parkinson's](https://osf.io/zvndc/)
 * [Impulsivity and inhibitory control in ageing](https://osf.io/fnyp7/)
 
-Warning: code is unpolished!
+Warning: code is written by amateurs and totally unpolished! :)
 
 Feel free to use and adapt the task code as you wish, but please do credit us if you do.
 
