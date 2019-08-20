@@ -1,6 +1,6 @@
 # Experiments
 
-This repository contains all the tasks used in the following pre-registered studies:
+This repository contains all the tasks used in the following pre-registered studies (currently under embargo):
 * [Impulsivity and inhibitory control in Parkinson's](https://osf.io/zvndc/)
 * [Impulsivity and inhibitory control in ageing](https://osf.io/fnyp7/)
 
