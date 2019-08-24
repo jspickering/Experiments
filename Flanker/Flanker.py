@@ -37,7 +37,7 @@ sessionNum = expInfo['session']
 # New logging
 dataFile = open(participant + '_' + dateStr + '.csv', 'w')
 writer = csv.writer(dataFile)
-writer.writerow(["Participant","Session","BlockNum","TrialNum","FlankerDir","TargetDir","Resp","RT"])
+writer.writerow(["Participant","Session","BlockNum","TrialNum","FlankerDir","TargetDir","Resp","RespTime","RT"])
 
 # ====================== #
 # ======= WINDOW ======= #
