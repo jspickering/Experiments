@@ -13,6 +13,8 @@ Tasks:
 * Go/No-Go task (plus a practice version) in PsychoPy
 * Stop Signal task (plus a practice version) in PsychoPy
 * Eriksen Flanker task (plus a practice version) in PsychoPy - adapted from [David Jangraw's (@djangraw) original code here](https://github.com/djangraw/PsychoPyParadigms/blob/master/BasicExperiments/FlankerTask.py)
+
+Tasks not included:
 * Iowa Gambling Task in OpenSesame - adapted from [Gary Freegard's original version here](http://psy.swan.ac.uk/staff/freegard/opensesame/scripts/)
-* Kirby Delay Discounting/27-item Monetary Choice Questionnaire in PowerPoint
+* Kirby Delay Discounting/27-item Monetary Choice Questionnaire in PowerPoint (will upload to OSF)
 * BART in PsychoPy builder (permission not yet receieved to upload the task)
