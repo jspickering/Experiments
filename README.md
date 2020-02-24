@@ -17,4 +17,4 @@ Tasks:
 Tasks not included:
 * Iowa Gambling Task in OpenSesame - adapted from [Gary Freegard's original version here](http://psy.swan.ac.uk/staff/freegard/opensesame/scripts/)
 * Kirby Delay Discounting/27-item Monetary Choice Questionnaire in PowerPoint (will upload to OSF)
-* BART in PsychoPy builder (permission not yet receieved to upload the task)
+* BART in PsychoPy builder (permission not yet received to upload the task)
